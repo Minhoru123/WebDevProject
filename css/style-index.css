@@ -4,8 +4,8 @@ body {
 }
  
 img {
-  width: 2800px;
-  height: 800px;
+  width: 150%;
+  height: 100%;
 }
 .name {
   padding-left: 6%;
@@ -17,14 +17,14 @@ img {
   color: lightslategrey;
 }
 .container {
-  margin-top: 10%;
+  margin-top: 5%;
   position: relative;
 }
 
 .text-pic {
   position: absolute;
   top: 30%;
-  right: 40%;
+  right: 35%;
   background-color: black;
   color: white;
   padding-left: 80px;
